@@ -1,0 +1,5 @@
+.content{
+    grid-area: c;
+    width: auto;
+    height: 800px;
+}
